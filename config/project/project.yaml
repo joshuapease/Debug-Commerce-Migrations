@@ -1,4 +1,4 @@
-dateModified: 1749935687
+dateModified: 1749935699
 email:
   fromEmail: joshua.pease@viget.com
   fromName: 'Commerce Migrations'
@@ -6,8 +6,8 @@ email:
 meta:
   __names__:
     01e61493-4aa7-4c56-9e8c-daa2b617b899: New # New
-    5fea3107-489c-41b1-9d2e-b22d463e5164: Common # Common
     9d2b9a06-3506-4320-8688-53e9b2b7dca5: Products # Products
+    121a9c6d-bb40-4be1-a6b6-2fda1882a2ad: 'Primary Store' # Primary Store
     378d9a00-6d65-4e45-b314-92db8a970c0e: 'Commerce Migrations' # Commerce Migrations
     bd26fad6-d9b9-4903-982c-55227ba29404: Dummy # Dummy
     fd9c8480-ef6d-459a-abbf-5072c9db2144: 'Commerce Migrations' # Commerce Migrations
@@ -15,12 +15,12 @@ plugins:
   commerce:
     edition: pro
     enabled: true
-    schemaVersion: 4.8.1.0
+    schemaVersion: 5.3.2.1
 system:
   edition: solo
   live: true
   name: 'Commerce Migrations'
-  schemaVersion: 4.15.0.0
+  schemaVersion: 5.7.0.3
   timeZone: America/Los_Angeles
 users:
   allowPublicRegistration: false
