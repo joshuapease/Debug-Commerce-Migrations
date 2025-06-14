@@ -1,13 +1,20 @@
-dateModified: 1749879979
+dateModified: 1749934162
 email:
   fromEmail: joshua.pease@viget.com
   fromName: 'Commerce Migrations'
   transportType: craft\mail\transportadapters\Sendmail
 meta:
   __names__:
+    01e61493-4aa7-4c56-9e8c-daa2b617b899: New # New
     5fea3107-489c-41b1-9d2e-b22d463e5164: Common # Common
     378d9a00-6d65-4e45-b314-92db8a970c0e: 'Commerce Migrations' # Commerce Migrations
+    bd26fad6-d9b9-4903-982c-55227ba29404: Dummy # Dummy
     fd9c8480-ef6d-459a-abbf-5072c9db2144: 'Commerce Migrations' # Commerce Migrations
+plugins:
+  commerce:
+    edition: pro
+    enabled: true
+    schemaVersion: 4.8.1.0
 system:
   edition: solo
   live: true
