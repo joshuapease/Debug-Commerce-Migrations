@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en
+name: 'Commerce Migrations'
+primary: true
+siteGroup: 378d9a00-6d65-4e45-b314-92db8a970c0e # Commerce Migrations
+sortOrder: 1

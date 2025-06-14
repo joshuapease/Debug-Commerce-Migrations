@@ -1,0 +1,22 @@
+dateModified: 1749879979
+email:
+  fromEmail: joshua.pease@viget.com
+  fromName: 'Commerce Migrations'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    5fea3107-489c-41b1-9d2e-b22d463e5164: Common # Common
+    378d9a00-6d65-4e45-b314-92db8a970c0e: 'Commerce Migrations' # Commerce Migrations
+    fd9c8480-ef6d-459a-abbf-5072c9db2144: 'Commerce Migrations' # Commerce Migrations
+system:
+  edition: solo
+  live: true
+  name: 'Commerce Migrations'
+  schemaVersion: 4.15.0.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
