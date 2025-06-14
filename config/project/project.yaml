@@ -1,4 +1,4 @@
-dateModified: 1749934162
+dateModified: 1749934976
 email:
   fromEmail: joshua.pease@viget.com
   fromName: 'Commerce Migrations'
@@ -7,6 +7,7 @@ meta:
   __names__:
     01e61493-4aa7-4c56-9e8c-daa2b617b899: New # New
     5fea3107-489c-41b1-9d2e-b22d463e5164: Common # Common
+    9d2b9a06-3506-4320-8688-53e9b2b7dca5: Products # Products
     378d9a00-6d65-4e45-b314-92db8a970c0e: 'Commerce Migrations' # Commerce Migrations
     bd26fad6-d9b9-4903-982c-55227ba29404: Dummy # Dummy
     fd9c8480-ef6d-459a-abbf-5072c9db2144: 'Commerce Migrations' # Commerce Migrations

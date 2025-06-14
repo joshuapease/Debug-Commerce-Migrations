@@ -1,0 +1,61 @@
+descriptionFormat: '{product.title} - {title}'
+handle: products
+hasDimensions: true
+hasProductTitleField: true
+hasVariantTitleField: false
+hasVariants: false
+name: Products
+productFieldLayouts:
+  f8cdf551-6649-4455-8992-87c42ac8b9a2:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\commerce\fieldlayoutelements\ProductTitleField
+            uid: 2157ffb1-2054-4ff7-91a6-6cacdc28095d
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\commerce\fieldlayoutelements\VariantsField
+            uid: 5d4b9e89-be38-421a-a16d-2db0480b905a
+            userCondition: null
+            warning: null
+        name: Content
+        uid: 38375e69-466c-486e-8b7d-c48e2f80ab87
+        userCondition: null
+productTitleFormat: ''
+siteSettings:
+  fd9c8480-ef6d-459a-abbf-5072c9db2144: # Commerce Migrations
+    hasUrls: true
+    template: _elemets/product.twig
+    uriFormat: 'products/{slug}'
+skuFormat: ''
+variantTitleFormat: '{product.title}'
